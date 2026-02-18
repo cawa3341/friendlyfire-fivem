@@ -1,2 +1,1 @@
-# friendlyfire-fivem
-Friendly fire script for fivem ( standalone ) 
+Hello, I made this simple script for FiveM developpers who want to make their server in standalone ( no framework ) 
